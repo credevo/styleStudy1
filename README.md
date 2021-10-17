@@ -1,5 +1,6 @@
 - Selectors
-  Universal : \*
+
+Universal : \*
 
 type : TAG
 
